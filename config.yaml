@@ -31,7 +31,7 @@ thresholds:
 
 files:
   ground_truth: "data/Data.csv"
-  modified_data: "data/Data_modified"
+  modified_data: "data/Data_modified.csv"
   output_report: "output/comparison_report.xlsx"
 
 csv_settings:
